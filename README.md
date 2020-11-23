@@ -1,1 +1,1 @@
-# [CSES-IntroductoryProblems] (https://cses.fi/problemset/)
+# CSES-IntroductoryProblems (https://cses.fi/problemset/)
